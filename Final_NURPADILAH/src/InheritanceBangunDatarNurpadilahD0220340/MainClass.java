@@ -38,7 +38,7 @@ public class MainClass {
                 lingkaran.luas();
             }else{
             System.out.println("\nPilihan Tidak Tersedia!!!\n");
-        }System.out.print("\nIngin memilih Luas Lagi (y/t)? ");
+        }System.out.print("\nIngin menghitung Luas Lagi (y/t)? ");
       ulang = input.next().charAt(0);
        
       System.out.println();
@@ -68,7 +68,7 @@ public class MainClass {
                 lingkaran.volume();
             }else{
             System.out.println("\nPilihan Tidak Tersedia!!!\n");
-        }System.out.print("\nIngin memilih Volume Lagi (y/t)? ");
+        }System.out.print("\nIngin menghitung Volume Lagi (y/t)? ");
       ulang = input.next().charAt(0);
        
       System.out.println();
